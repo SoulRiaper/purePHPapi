@@ -1,0 +1,6 @@
+# log files
+*.log
+
+# config files
+
+.htaccess
